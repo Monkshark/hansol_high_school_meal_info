@@ -120,7 +120,7 @@ def main() -> None:
     os.remove(f"{getCurrentDate()} 급식.png");
     os.remove(f"{getCurrentDate()} 시간표.png");
 
-    # setWallpaper(f"{getCurrentDate()}.png");
+    setWallpaper(f"{getCurrentDate()}.png");
 
 if __name__ == "__main__":
     main();
