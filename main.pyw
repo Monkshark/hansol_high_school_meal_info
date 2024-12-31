@@ -5,6 +5,7 @@ import ctypes;
 import os;
 from datetime import datetime;
 
+
 class niesAPI:
     ATPT_OFCDC_SC_CODE = "I10";
     SD_SCHUL_CODE = "9300058";
