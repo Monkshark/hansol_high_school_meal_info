@@ -1,3 +1,4 @@
+# .pyw 확장자
 import requests;
 from concurrent.futures import ThreadPoolExecutor;
 from PIL import Image, ImageDraw, ImageFont;
